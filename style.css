@@ -1,0 +1,32 @@
+/* 🎨 Style your page here. */
+
+body {
+  background-color : lightgray;
+    font-family : Arial, semi-serif;
+  
+}
+.resume-box{
+  width:700px;
+  margin:2px auto;
+  padding:15px;
+  border:2px solid black;
+  background-color:white;
+}
+header{
+  text-align:center;
+  border-bottom:2px solid;
+  padding-bottom:15px;
+}
+section{
+  margin-top:20px;
+}
+h2,h3{
+  border-bottom:2px solid gray;
+  padding-bottom:5px
+}
+.contact-details:{
+  margin-right:30px;
+}
+footer{
+  text-align:center;
+}
